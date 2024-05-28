@@ -15,7 +15,6 @@
 
 - HTML5
 - CSS3
-- JavaScript
 
 <h2 id="started">🚀 Começando/Getting started</h2>
 
