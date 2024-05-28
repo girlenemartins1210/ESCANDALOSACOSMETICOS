@@ -7,8 +7,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="" alt="Tela superior" width="400px">
-    <img src="" alt="Tela Inferior" width="400px">
+    <img src="imagens/tela superior.png" alt="Tela superior" width="400px">
+    <img src="imagens/tela inferior.png" alt="Tela Inferior" width="400px">
 </p>
 
 <h2 id="technologies">💻 Tecnologias/Technologies</h2>

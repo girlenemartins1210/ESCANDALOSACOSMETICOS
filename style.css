@@ -112,7 +112,67 @@
 /*---------
 * Carrossel
 *---------*/
+.galery{
+  width: 800px;
+  height: 300px;
+  background-color: black;
+  overflow: hidden;
+  margin: 0 auto;
+}
 
+.galery .fotos{
+  width: 600%;
+  animation-name: animacao;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+}
+
+.galery .fotos img {
+  width: 16.666%;
+}
+
+@keyframes animacao {
+0% {
+  margin-left: 0;
+}
+
+20% {
+  margin-left: 0;
+}
+
+25% {
+  margin-left: -100%;
+}
+
+45% {
+  margin-left: -100%;
+}
+
+50% {
+  margin-left: -200%;
+}
+
+70% {
+  margin-left: -200%;
+}
+
+75% {
+  margin-left: -300%;
+}
+
+95% {
+  margin-left: -300%;
+}
+
+100% {
+  margin-left: -400%;
+}
+}
+
+* {
+margin: 0;
+padding: 0;
+}
 /*---------
 * Produtos_gaby
 *---------*/
@@ -185,83 +245,30 @@
   margin-inline-end: 0px;
   unicode-bidi: isolate;
 }
-        footer {
-            background-color: #D812C8;
-            padding: 20px;
-            text-align: center;
-        }
-        footer p {
-            margin-bottom: 10px;
-        }
-        footer a {
-            color: #e9e3e8;
-            text-decoration: none;
-            margin: 0 10px;
-        }
+
+
+/*---------
+* Radape_arthur
+*---------*/
+footer {
+  background-color: #D812C8;
+  padding: 20px;
+  text-align: center;
+}
+footer p {
+  margin-bottom: 10px;
+}
+footer a {
+  color: #e9e3e8;
+  text-decoration: none;
+  margin: 0 10px;
+}
       
-        
+/*---------
+* Radape_
+*---------*/        
                 
-          .galery{
-              width: 800px;
-              height: 300px;
-              background-color: black;
-              overflow: hidden;
-              margin: 0 auto;
-          }
-          
-          .galery .fotos{
-              width: 600%;
-              animation-name: animacao;
-              animation-duration: 20s;
-              animation-iteration-count: infinite;
-          }
-          
-          .galery .fotos img {
-              width: 16.666%;
-          }
-          
-          @keyframes animacao {
-            0% {
-              margin-left: 0;
-            }
-        
-            20% {
-              margin-left: 0;
-            }
-        
-            25% {
-              margin-left: -100%;
-            }
-        
-            45% {
-              margin-left: -100%;
-            }
-        
-            50% {
-              margin-left: -200%;
-            }
-        
-            70% {
-              margin-left: -200%;
-            }
-        
-            75% {
-              margin-left: -300%;
-            }
-        
-            95% {
-              margin-left: -300%;
-            }
-        
-            100% {
-              margin-left: -400%;
-            }
-          }
-          
-          * {
-            margin: 0;
-            padding: 0;
-          }
+ 
           .cartao{
             display: flex;
               justify-content: center;
