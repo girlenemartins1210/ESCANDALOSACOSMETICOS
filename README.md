@@ -49,7 +49,7 @@ Este projeto foi desenvolvido em equipe como parte de um trabalho acadêmico. Ab
     </td>
     <td align="center">
       <a href="https://github.com/girlenemartins1210">
-        <img src="/imagens/produtos/icone.png" width="100px;" alt="Girlene Martins"/><br>
+        <img src="imagens/produtos/icone.png" width="100px;" alt="Girlene Martins"/><br>
         <sub>
           <b>Girlene Martins</b>
         </sub>
@@ -57,7 +57,7 @@ Este projeto foi desenvolvido em equipe como parte de um trabalho acadêmico. Ab
     </td>
     <td align="center">
       <a href="https://github.com/Rosesfox">
-        <img src="/imagens/produtos/icone.png" width="100px;" alt="Maria Gabrielly"/><br>
+        <img src="imagens/produtos/icone.png" width="100px;" alt="Maria Gabrielly"/><br>
         <sub>
           <b>Maria Gabrielly</b>
         </sub>
@@ -65,7 +65,7 @@ Este projeto foi desenvolvido em equipe como parte de um trabalho acadêmico. Ab
     </td>
       <td align="center">
       <a href="https://github.com/thiagoneves22">
-        <img src="/imagens/produtos/icone.png" width="100px;" alt="Thiago neves"/><br>
+        <img src="imagens/produtos/icone.png" width="100px;" alt="Thiago neves"/><br>
         <sub>
           <b>Thiago Neves</b>
         </sub>
@@ -73,9 +73,9 @@ Este projeto foi desenvolvido em equipe como parte de um trabalho acadêmico. Ab
     </td>
       <td align="center">
       <a href="https://github.com/">
-        <img src="/imagens/produtos/icone.pngs/icone" width="100px;" alt="Arthur"/><br>
+        <img src="imagens/produtos/icone.pngs/icone" width="100px;" alt="Arthur Lacerda"/><br>
         <sub>
-          <b>Arthur</b>
+          <b>Arthur Lacerda</b>
         </sub>
       </a>
     </td>
@@ -91,5 +91,6 @@ Email:
 - alan.k.brisola123@gmail.com
 - girlene.martins@hotmail.com
 - gs853h@gmail.com
--
--
+- Thiagoc.neves10@gmail.com
+- tutulacerda123@gmail.com 
+
