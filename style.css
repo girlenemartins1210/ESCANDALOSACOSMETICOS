@@ -61,3 +61,11 @@
     background-color: #d71ac4;
     cursor: pointer;
   }
+
+  @media screen and (max-width: 768px) {
+    body{
+      display: block;
+      background-image: none;
+      text-align: center;
+    }
+  }
