@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en" data-bs-theme="auto">
+
+
+  <main class = "main">
+  <section class = "galery">
+      <div class = "fotos">
+      <img src="imagens/produtos/carrossel1.jpg"/>
+      <img src="imagens/produtos/carrossel2.jpg"/>
+      <img src="imagens/produtos/carrossel3.jpeg"/>
+      <img src="imagens/produtos/carrossel4.jpeg"/>
+      <img src="imagens/produtos/carrossel1.jpg"/>
+
+      </div>
+  </main>
+</html>
